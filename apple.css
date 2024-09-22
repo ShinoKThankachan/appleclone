@@ -5,15 +5,26 @@
 }
 .a{
     width: 100%;
+    height: 40px;
 }
 .b{
+  
     width: 100%;
+    height: 800px;
+    padding-bottom: 5px;
+    
 }
+
 
 
 .photo{
     height: 800px;
     width: 100%;
+}
+.c{
+    height: 800px;
+    width: 100%;
+    padding-bottom: 5px;
 }
 .iphone16{
     height: 800px;
@@ -24,4 +35,24 @@
 .watch{
     height: 600px;
     width: 100%;
+}
+.watch1{
+    height: 450px;
+    width: 49%;
+    padding: 5px;
+}
+.airpods{
+    height: 450px;
+    width: 49%;
+    padding: 5px;
+}
+.am{
+    height: 450px;
+    width: 49%;
+    padding: 5px;
+}
+.mac{
+    height: 450px;
+    width: 49%;
+    padding: 5px;
 }
