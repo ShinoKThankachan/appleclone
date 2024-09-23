@@ -2,57 +2,217 @@
     background-color: grey;
     width: 100%;
     height: 40px;
+    margin-bottom: 0px;
+}
+.logo{
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    left: 300px;
+
+    
 }
 .a{
+
     width: 100%;
-    height: 40px;
+    height: 25px;
+    
 }
 .b{
-  
+    background-image: url(16pro.jpg);
+    background-size: cover;
     width: 100%;
     height: 800px;
     padding-bottom: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     
 }
 
 
-
-.photo{
-    height: 800px;
-    width: 100%;
+#btn1{
+    background-color: blue;
+    border-radius: 12px;
 }
+#btn2{
+    border-radius: 12px;
+    border-color: blue;
+}
+
 .c{
+    background-image: url(iphone-16.jpg);
+    background-size: cover;
     height: 800px;
     width: 100%;
     padding-bottom: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
-.iphone16{
-    height: 800px;
-    width: 100%;
-    
 
+#btn3{
+    background-color: blue;
+    border-radius: 12px;
+
+}
+#btn4{
+    border-radius: 12px;
+    border-color: blue;
 }
 .watch{
-    height: 600px;
+    background-image: url(watchnew\ \(1\).webp);
+    background-size: cover;
+    height: 500px;
     width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+#btn5{
+    background-color: blue;
+    border-radius: 12px;
+    
+  
+}
+#btn6{
+    border-radius: 12px;
+    border-color: blue;
+    
+
+}
+.d{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
 }
 .watch1{
+    background-image: url(watch\ ultra.avif);
+    background-size: cover;
     height: 450px;
-    width: 49%;
+    width: 80%;
     padding: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#btn7{
+    background-color: blue;
+    border-radius: 12px;
+}
+#btn8{
+    border-radius: 12px;
+    border-color: blue;
 }
 .airpods{
+    background-image: url(airpods4.webp);
+    background-size: cover;
     height: 450px;
-    width: 49%;
+    width: 80%;
     padding: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#btn9{
+    background-color: blue;
+    border-radius: 12px;
+}
+#btn10{
+    border-radius: 12px;
+    border-color: blue;
+}
+.e{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
 }
 .am{
-    height: 450px;
-    width: 49%;
+    background-image: url(airpods\ max.png);
+    background-size: cover;
+    height: 500px;
+    width: 90%;
     padding: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#btn11{
+    background-color: blue;
+    border-radius: 12px;
+}
+#btn12{
+    border-radius: 12px;
+    border-color: blue;
 }
 .mac{
-    height: 450px;
-    width: 49%;
+    background-image: url(macbook.jpg);
+    background-size: cover;
+    height: 500px;
+    width: 90%;
     padding: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#btn13{
+    background-color: blue;
+    border-radius: 12px;
+}
+#btn14{
+    border-radius: 12px;
+    border-color: blue;
+}
+.f{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.ipad{
+    background-image: url(iPad_Pro.avif);
+    background-size: cover;
+    height: 500px;
+    width: 90%;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#btn15{
+    background-color: blue;
+    border-radius: 12px;
+}
+#btn16{
+    border-radius: 12px;
+    border-color: blue;
+}
+.trade{
+    background-image: url(Apple-Trade-In.jpg);
+    background-size: cover;
+    height: 500px;
+    width: 90%;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#btn17{
+    background-color: blue;
+    border-radius: 12px;
+}
+.g{
+    background-image: url(gonegirl.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 800px;
+    padding-bottom: 5px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+}
+#btn18{
+    border-radius: 12px;
 }
