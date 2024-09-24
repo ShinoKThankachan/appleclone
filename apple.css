@@ -3,13 +3,19 @@
     width: 100%;
     height: 40px;
     margin-bottom: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     
 }
 .logo{
-    position: absolute;
+    
     height: 30px;
     width: 30px;
-    left: 300px;
+    left: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
 
     
 }
@@ -27,7 +33,7 @@
     padding-bottom: 5px;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: flex-end;
     margin-bottom: 5px;
     
 }
@@ -35,11 +41,19 @@
 
 #btn1{
     background-color: blue;
-    border-radius: 12px;
+    border-radius: 20px;
+    padding: 12px;
+    font-size: 12px;
+    color: white;
+    
 }
 #btn2{
-    border-radius: 12px;
+    border-radius: 20px;
+    padding: 12px 20px;
+    font-size: 12px;
     border-color: blue;
+    color: blue;
+    background-color: rgb(35, 0, 0);
 }
 
 .c{
@@ -50,18 +64,24 @@
     padding-bottom: 5px;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: flex-end;
     margin-bottom: 5px;
 }
 
 #btn3{
     background-color: blue;
-    border-radius: 12px;
+    border-radius: 20px;
+    padding: 12px;
+    font-size: 12px;
+    color: white;
 
 }
 #btn4{
-    border-radius: 12px;
-    border-color: blue;
+    border-radius: 20px;
+    padding: 12px 20px;
+    font-size: 12px;
+    border-color: rgb(202, 202, 246);
+    color: blue;
 }
 .watch{
     background-image: url(watchnew\ \(1\).webp);
@@ -77,13 +97,19 @@
 
 #btn5{
     background-color: blue;
-    border-radius: 12px;
+    border-radius: 20px;
+    padding: 12px;
+    font-size: 12px;
+    color: white;
     
   
 }
 #btn6{
-    border-radius: 12px;
+    border-radius: 20px;
+    padding: 12px 20px;
+    font-size: 12px;
     border-color: blue;
+    color: blue;
     
 
 }
@@ -107,11 +133,18 @@
 }
 #btn7{
     background-color: blue;
-    border-radius: 12px;
+    border-radius: 20px;
+    padding: 12px;
+    font-size: 12px;
+    color: white;
 }
 #btn8{
-    border-radius: 12px;
+    border-radius: 20px;
+    padding: 12px 20px;
+    font-size: 12px;
     border-color: blue;
+    color: blue;
+    background-color: black;
 }
 .airpods{
     background-image: url(airpods4.webp);
@@ -121,15 +154,22 @@
     padding: 5px;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: flex-end;
 }
 #btn9{
     background-color: blue;
-    border-radius: 12px;
+    border-radius: 20px;
+    padding: 12px;
+    font-size: 12px;
+    color: white;
 }
 #btn10{
-    border-radius: 12px;
+    border-radius: 20px;
+    padding: 12px 20px;
+    font-size: 12px;
     border-color: blue;
+    color: blue;
+    background-color: black;
 }
 .e{
     display: flex;
@@ -144,17 +184,23 @@
     padding: 5px;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: flex-end;
     margin-bottom: 5px;
     margin-right: 5px;
 }
 #btn11{
     background-color: blue;
-    border-radius: 12px;
+    border-radius: 20px;
+    padding: 12px;
+    font-size: 12px;
+    color: white;
 }
 #btn12{
-    border-radius: 12px;
+    border-radius: 20px;
+    padding: 12px 20px;
+    font-size: 12px;
     border-color: blue;
+    color: blue;
 }
 .mac{
     background-image: url(macbook.jpg);
@@ -164,16 +210,22 @@
     padding: 5px;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: flex-start;
 
 }
 #btn13{
     background-color: blue;
-    border-radius: 12px;
+    border-radius: 20px;
+    padding: 12px;
+    font-size: 12px;
+    color: white;
 }
 #btn14{
-    border-radius: 12px;
+    border-radius: 20px;
+    padding: 12px 20px;
+    font-size: 12px;
     border-color: blue;
+    color: blue;
 }
 .f{
     display: flex;
@@ -194,11 +246,18 @@
 }
 #btn15{
     background-color: blue;
-    border-radius: 12px;
+    border-radius: 20px;
+    padding: 12px;
+    font-size: 12px;
+    color: white;
 }
 #btn16{
-    border-radius: 12px;
+    border-radius: 20px;
+    padding: 12px 20px;
+    font-size: 12px;
     border-color: blue;
+    color: blue;
+    background-color: black;
 }
 .trade{
     background-image: url(Apple-Trade-In.jpg);
@@ -212,7 +271,10 @@
 }
 #btn17{
     background-color: blue;
-    border-radius: 12px;
+    border-radius: 20px;
+    padding: 12px;
+    font-size: 12px;
+    color: white;
 }
 .g{
     background-image: url(gonegirl.jpg);
@@ -226,5 +288,7 @@
     margin-bottom: 5px;
 }
 #btn18{
-    border-radius: 12px;
+    border-radius: 20px;
+    padding: 12px;
+    font-size: 12px;
 }
